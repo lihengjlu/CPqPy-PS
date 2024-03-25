@@ -1,1 +1,2 @@
-# -Comsol-Phreeqc-python
+# Comsol-Phreeqc-python
+Pore-scale reactive transport simulator for multi-component and multi-minerals
